@@ -1,5 +1,7 @@
 # ETL-project
 
+I would like to give some credit to TA Drew's speedruns for constantly providing me guidance in the process.
+
 From the two Excel files, I created 4 different data frames in my jupyter notebook using Pandas (ETL_Mini_Project_Starter_Code.ipynb). Each of these became the 4 CSV files in the Resources folder.
 I was able to successfully extract the data from the excel files and transform them using Pandas into CSV files.
 
